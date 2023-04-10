@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">android_02</string>
+    <string name="id">카카오계정(이메일 또는 전화번호)</string>
+    <string name="pw">" 비밀번호"</string>
+    <string name="login">로그인</string>
+    <string name="QR">QR코드 로그인</string>
+    <string name="or">---------------------------------------또는--------------------------</string>
+    <string name="auto">자동로그인</string>
+</resources>

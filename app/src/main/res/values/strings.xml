@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">android_02</string>
+    <string name="id">Kakao Account (email or phone number)</string>
+    <string name="pw">password</string>
+    <string name="login">login</string>
+    <string name="QR">QR code login</string>
+    <string name="or">---------------------------------------or------------------------------------------</string>
+    <string name="auto">Auto-Login</string>
+</resources>
